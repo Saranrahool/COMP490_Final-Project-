@@ -1,0 +1,5 @@
+This is a test file for the File Integrity Checker.
+Line 2: The quick brown fox jumps over the lazy dog.
+Line 3: 1234567890
+Line 4: All characters: !@#$%^&*()_+-=[]{}|;':",.<>?/
+Line 5: End of file. [MODIFIED - this line was changed!]

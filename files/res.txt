@@ -1,0 +1,10 @@
+Time       : 2026-04-18 12:21:57
+Algorithm  : SHA256
+
+File 1     : C:/Users/Legion/COMP_490_Final_Project/files/test_file_A.txt
+Hash 1     : 911fc292f010afb44bc06733bb8f5c42f996c5fc236cacbdc2aaa58a3c5a1981
+
+File 2     : C:/Users/Legion/COMP_490_Final_Project/files/test_file_C.txt
+Hash 2     : bc65a0b3be51b139d9fbc9a002bbca8871e89cc86b46ede8424f568bb3d8f8cd
+
+Result     : DIFFERENT
